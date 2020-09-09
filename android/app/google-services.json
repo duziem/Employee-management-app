@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971827520236",
+    "firebase_url": "https://beloxxi-app-b7ff7.firebaseio.com",
+    "project_id": "beloxxi-app-b7ff7",
+    "storage_bucket": "beloxxi-app-b7ff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971827520236:android:a8e2ca20eede22aef3fbc9",
+        "android_client_info": {
+          "package_name": "com.francis.beloxxi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971827520236-sam71urp4k3l1g57lcsn0oaaef3p5a20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.francis.beloxxi_app",
+            "certificate_hash": "48fb411cc2c0537df04606bd2bd2d1e49f3d0053"
+          }
+        },
+        {
+          "client_id": "971827520236-7vef4bnekhbtc31k3hh06aiqdbkvrape.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPq-j7aAF9H6SP8Yb3cukkusNGo8IGt68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971827520236-7vef4bnekhbtc31k3hh06aiqdbkvrape.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
