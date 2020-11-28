@@ -1,6 +1,9 @@
 # beloxxi_app
 
-A new Flutter project.
+This is an employee management application originally built for Beloxxi industries ltd  
+The App is built using Flutter: the Dart framework 
+It makes use of firebase--cloud firestore at the backend for employee authentication and for storing employee data  
+It makes use of firebase storage for storing media  
 
 ## Getting Started
 
